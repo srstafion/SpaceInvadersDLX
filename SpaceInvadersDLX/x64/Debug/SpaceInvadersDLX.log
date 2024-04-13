@@ -1,0 +1,5 @@
+﻿  Game.cpp
+C:\Users\Denis pipis\source\repos\SpaceInvadersDLX\SpaceInvadersDLX\Game.cpp(4,33): warning C4244: 'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+C:\Users\Denis pipis\source\repos\SpaceInvadersDLX\SpaceInvadersDLX\Game.cpp(4,26): warning C4244: 'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+C:\Users\Denis pipis\source\repos\SpaceInvadersDLX\SpaceInvadersDLX\Game.cpp(292,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SpaceInvadersDLX.vcxproj -> C:\Users\Denis pipis\source\repos\SpaceInvadersDLX\SpaceInvadersDLX\x64\Debug\SpaceInvadersDLX.exe
